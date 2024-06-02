@@ -1,0 +1,4 @@
+pip install ruamel.yaml
+pip install ruamel.yaml --target=C:\Python311\Lib\site-packages
+pip install ruamel.yaml --target=C:\Python310\Lib\site-packages
+pip install ruamel.yaml --target=C:\Python38\Lib\site-packages
